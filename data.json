@@ -1,0 +1,837 @@
+{
+	"sys": {
+		"type": "Array"
+	},
+	"total": 5,
+	"skip": 0,
+	"limit": 100,
+	"items": [
+		{
+			"metadata": {
+				"tags": []
+			},
+			"sys": {
+				"space": {
+					"sys": {
+						"type": "Link",
+						"linkType": "Space",
+						"id": "d6gach6xgkb5"
+					}
+				},
+				"id": "1nmuwWQ7x1K6uPqC3p3oXm",
+				"type": "Entry",
+				"createdAt": "2022-09-09T14:28:22.232Z",
+				"updatedAt": "2022-09-09T14:28:22.232Z",
+				"environment": {
+					"sys": {
+						"id": "master",
+						"type": "Link",
+						"linkType": "Environment"
+					}
+				},
+				"revision": 1,
+				"contentType": {
+					"sys": {
+						"type": "Link",
+						"linkType": "ContentType",
+						"id": "header"
+					}
+				},
+				"locale": "en-US"
+			},
+			"fields": {
+				"header": "Red Velvet Cake",
+				"picture": [
+					{
+						"sys": {
+							"type": "Link",
+							"linkType": "Asset",
+							"id": "1sJ3CWrJhVv7cUz4sbU7dA",
+                            "url": "//images.ctfassets.net/d6gach6xgkb5/1sJ3CWrJhVv7cUz4sbU7dA/02cfe89eee15a18f73ace68dfc73680f/persgroep"
+						}
+					}
+				],
+				"receiptText": {
+					"data": {},
+					"content": [
+						{
+							"data": {},
+							"content": [
+								{
+									"data": {},
+									"marks": [],
+									"value": "For Cake:",
+									"nodeType": "text"
+								}
+							],
+							"nodeType": "heading-4"
+						},
+						{
+							"data": {},
+							"content": [
+								{
+									"data": {},
+									"marks": [],
+									"value": "Heat oven to 350°F | 175°C. Lightly grease two 8-inch cake pans with butter or nonstick oil spray and lightly dust with 1 tablespoon of the sifted cocoa powder.",
+									"nodeType": "text"
+								}
+							],
+							"nodeType": "paragraph"
+						},
+						{
+							"data": {},
+							"content": [
+								{
+									"data": {},
+									"marks": [],
+									"value": "Cream 1/2 cup (120g) unsalted butter and 1/2 cups (300g) caster sugar together until light in color. Add 2 large eggs, eggs one at a time, beating well after each addition to combine well.",
+									"nodeType": "text"
+								}
+							],
+							"nodeType": "paragraph"
+						},
+						{
+							"data": {},
+							"content": [
+								{
+									"data": {},
+									"marks": [],
+									"value": "In a smaller bowl, mix together 1/4cup cooking oil, 1 tablespoon (10g) unsweetened cocoa powder, 1/2 tablespoons (45ml) red food coloring and 2teaspoons(10ml) pure vanilla extract until smooth. Stir color mixture and 1tablespoon(20ml) white vinegar through the creamed sugar mixture to combine.",
+									"nodeType": "text"
+								}
+							],
+							"nodeType": "paragraph"
+						},
+						{
+							"data": {},
+							"content": [
+								{
+									"data": {},
+									"marks": [],
+									"value": "Sift together 2 1/2 cups (350g) plain cake flour sifted, 1 teaspoon baking soda and 1 teaspoon  salt in a separate bowl. Add half of the dry ingredients and half of the buttermilk to the wet ingredients; mix well. Repeat with remaining dry ingredients and buttermilk. ",
+									"nodeType": "text"
+								}
+							],
+							"nodeType": "paragraph"
+						},
+						{
+							"data": {},
+							"content": [
+								{
+									"data": {},
+									"marks": [],
+									"value": "Divide batter among the 2 prepared pans and bake for about 25 to 30 minutes, or until a toothpick inserted into the center of the cake comes out clean. Cool on a wire rack completely.",
+									"nodeType": "text"
+								}
+							],
+							"nodeType": "paragraph"
+						},
+						{
+							"data": {},
+							"content": [
+								{
+									"data": {},
+									"marks": [
+										{
+											"type": "bold"
+										}
+									],
+									"value": "For Cream Cheese Frosting:",
+									"nodeType": "text"
+								}
+							],
+							"nodeType": "paragraph"
+						},
+						{
+							"data": {},
+							"content": [
+								{
+									"data": {},
+									"marks": [],
+									"value": "Beat together cream cheese, butter and vanilla until smooth lighter in color (about 3-4 minutes). Beat in icing sugar until frosting is light and fluffy (if frosting is too thin, add more icing sugar and beat again until reaching your desired consistency).Optional if using: mix in the lemon juice.",
+									"nodeType": "text"
+								}
+							],
+							"nodeType": "paragraph"
+						},
+						{
+							"data": {},
+							"content": [
+								{
+									"data": {},
+									"marks": [],
+									"value": "Assemble Cake:",
+									"nodeType": "text"
+								}
+							],
+							"nodeType": "heading-4"
+						},
+						{
+							"data": {},
+							"content": [
+								{
+									"data": {},
+									"marks": [],
+									"value": "Transfer 1 cake onto a serving dish/plate, flat-side down. Trim the top dome off of the cake to create a flat bottom later. Scoop about 1 1/2 - 2 cups of frosting onto cake and spread evenly over the top.",
+									"nodeType": "text"
+								}
+							],
+							"nodeType": "paragraph"
+						},
+						{
+							"data": {},
+							"content": [
+								{
+									"data": {},
+									"marks": [],
+									"value": "Place second cake layer on top and use remaining frosting to cover top and sides of cake.",
+									"nodeType": "text"
+								}
+							],
+							"nodeType": "paragraph"
+						},
+						{
+							"data": {},
+							"content": [
+								{
+									"data": {},
+									"marks": [],
+									"value": "Crumble trimmed pieces of cake to decorate.",
+									"nodeType": "text"
+								}
+							],
+							"nodeType": "paragraph"
+						},
+						{
+							"data": {},
+							"content": [
+								{
+									"data": {},
+									"marks": [],
+									"value": "\n\n",
+									"nodeType": "text"
+								}
+							],
+							"nodeType": "paragraph"
+						}
+					],
+					"nodeType": "document"
+				}
+			}
+		},
+		{
+			"metadata": {
+				"tags": []
+			},
+			"sys": {
+				"space": {
+					"sys": {
+						"type": "Link",
+						"linkType": "Space",
+						"id": "d6gach6xgkb5"
+					}
+				},
+				"id": "Ivuh89wSXEazV2sywUjrO",
+				"type": "Entry",
+				"createdAt": "2022-09-09T13:57:25.992Z",
+				"updatedAt": "2022-09-09T14:04:04.833Z",
+				"environment": {
+					"sys": {
+						"id": "master",
+						"type": "Link",
+						"linkType": "Environment"
+					}
+				},
+				"revision": 2,
+				"contentType": {
+					"sys": {
+						"type": "Link",
+						"linkType": "ContentType",
+						"id": "header"
+					}
+				},
+				"locale": "en-US"
+			},
+			"fields": {
+				"header": "Tiramisu",
+				"picture": [
+					{
+						"sys": {
+							"type": "Link",
+							"linkType": "Asset",
+							"id": "3CsQ2QtK7LBq2YHB5uEPHO",
+                            "url": "//images.ctfassets.net/d6gach6xgkb5/3CsQ2QtK7LBq2YHB5uEPHO/6bd8d075b2b1006e572a7b48c5c27d7e/5fabca0dd3806c0cdcfb8595.jpg"
+						}
+					}
+				],
+				"receiptText": {
+					"data": {},
+					"content": [
+						{
+							"data": {},
+							"content": [
+								{
+									"data": {},
+									"marks": [],
+									"value": "Make the Mascarpone Cream. First, you’ll need to use a stand mixer or a hand mixer to beat the whipping cream, sugar, vanilla, and cinnamon until stiff peaks begin to form. This should take a minute or two. (You can also do this by hand with a whisk, but it takes much longer – you’ll probably want to have someone else in the kitchen to take turns beating the cream!) Next, add the mascarpone, and mix on medium-low until the whipped cream and mascarpone are just combined, being careful not to over-whip.",
+									"nodeType": "text"
+								}
+							],
+							"nodeType": "paragraph"
+						},
+						{
+							"data": {},
+							"content": [
+								{
+									"data": {},
+									"marks": [],
+									"value": "Make the First Layer of Coffee-Dipped Ladyfingers. Pour the cooled espresso into a shallow bowl. One at a time, dip the ladyfingers into the espresso, flipping them once to coat on both sides. Don’t soak, just quickly dip. Lay each ladyfinger into your dish until you have covered the bottom of the dish with a single layer.",
+									"nodeType": "text"
+								}
+							],
+							"nodeType": "paragraph"
+						},
+						{
+							"data": {},
+							"content": [
+								{
+									"data": {},
+									"marks": [],
+									"value": "Top the Ladyfingers with the Mascarpone Cream. Once you have a complete layer, dollop half of the mascarpone cream on top, and spread it evenly over the ladyfingers.",
+									"nodeType": "text"
+								}
+							],
+							"nodeType": "paragraph"
+						},
+						{
+							"data": {},
+							"content": [
+								{
+									"data": {},
+									"marks": [],
+									"value": "Repeat These Layers. Do steps 2 and 3 again, to make a second layer of ladyfingers and a second layer of cream.",
+									"nodeType": "text"
+								}
+							],
+							"nodeType": "paragraph"
+						},
+						{
+							"data": {},
+							"content": [
+								{
+									"data": {},
+									"marks": [],
+									"value": "Top with Cocoa Powder, and Chill. Dust the top of the tiramisu with cocoa powder. Chill the tiramisu for 4 to 5 hours, or overnight, to allow the whole dessert to set.",
+									"nodeType": "text"
+								}
+							],
+							"nodeType": "paragraph"
+						},
+						{
+							"data": {},
+							"content": [
+								{
+									"data": {},
+									"marks": [],
+									"value": "Enjoy! Cut the tiramisu into squares, and serve.",
+									"nodeType": "text"
+								}
+							],
+							"nodeType": "paragraph"
+						},
+						{
+							"data": {},
+							"content": [
+								{
+									"data": {},
+									"marks": [],
+									"value": "\n\n",
+									"nodeType": "text"
+								}
+							],
+							"nodeType": "paragraph"
+						}
+					],
+					"nodeType": "document"
+				}
+			}
+		},
+		{
+			"metadata": {
+				"tags": []
+			},
+			"sys": {
+				"space": {
+					"sys": {
+						"type": "Link",
+						"linkType": "Space",
+						"id": "d6gach6xgkb5"
+					}
+				},
+				"id": "6UYdAs3y5oxB5cPs0wyMQ3",
+				"type": "Entry",
+				"createdAt": "2022-09-06T15:52:11.401Z",
+				"updatedAt": "2022-09-09T10:00:18.868Z",
+				"environment": {
+					"sys": {
+						"id": "master",
+						"type": "Link",
+						"linkType": "Environment"
+					}
+				},
+				"revision": 4,
+				"contentType": {
+					"sys": {
+						"type": "Link",
+						"linkType": "ContentType",
+						"id": "header"
+					}
+				},
+				"locale": "en-US"
+			},
+			"fields": {
+				"header": "Tagliatelle with Lemon Basil Sauce",
+				"picture": [
+					{
+						"sys": {
+							"type": "Link",
+							"linkType": "Asset",
+							"id": "4JM80J42Z3PJwKk27k00g6"
+						}
+					}
+				],
+				"receiptText": {
+					"nodeType": "document",
+					"data": {},
+					"content": [
+						{
+							"nodeType": "paragraph",
+							"data": {},
+							"content": [
+								{
+									"nodeType": "text",
+									"value": "Heat 1 tbsp butter with some lemon zest and the juice of half a lemon (a little more if you like) in a small pan and simmer for a very short time. Add 150ml sweet cream, chop 1 bunch basil finely and add it as well. Then mix in 30g grated parmesan. Lower the temperature slightly, let the sauce simmer very briefly and season with salt and pepper.",
+									"marks": [],
+									"data": {}
+								}
+							]
+						},
+						{
+							"nodeType": "paragraph",
+							"data": {},
+							"content": [
+								{
+									"nodeType": "text",
+									"value": "In the meantime, cook 200 g tagliatelle  in plenty of salted water until al dente according to the packet instructions, then drain and mix immediately with the sauce.\nSprinkle with Parmesan shavings and, if you like, toasted pine nuts and freshly ground pepper.\n\n",
+									"marks": [],
+									"data": {}
+								}
+							]
+						},
+						{
+							"nodeType": "paragraph",
+							"data": {},
+							"content": [
+								{
+									"nodeType": "text",
+									"value": "\n\n",
+									"marks": [],
+									"data": {}
+								}
+							]
+						}
+					]
+				}
+			}
+		},
+		{
+			"metadata": {
+				"tags": []
+			},
+			"sys": {
+				"space": {
+					"sys": {
+						"type": "Link",
+						"linkType": "Space",
+						"id": "d6gach6xgkb5"
+					}
+				},
+				"id": "2scBiG3zGQYwF7Zzim5LTs",
+				"type": "Entry",
+				"createdAt": "2022-09-07T16:01:39.837Z",
+				"updatedAt": "2022-09-08T15:28:50.683Z",
+				"environment": {
+					"sys": {
+						"id": "master",
+						"type": "Link",
+						"linkType": "Environment"
+					}
+				},
+				"revision": 2,
+				"contentType": {
+					"sys": {
+						"type": "Link",
+						"linkType": "ContentType",
+						"id": "header"
+					}
+				},
+				"locale": "en-US"
+			},
+			"fields": {
+				"header": "Old Bay Shrimp and Sausage Sheet Pan with Lemon Garlic Aioli ",
+				"picture": [
+					{
+						"sys": {
+							"type": "Link",
+							"linkType": "Asset",
+							"id": "5oIt68X0ASCM3JP2AXFIRi"
+						}
+					}
+				],
+				"receiptText": {
+					"nodeType": "document",
+					"data": {},
+					"content": [
+						{
+							"nodeType": "paragraph",
+							"data": {},
+							"content": [
+								{
+									"nodeType": "text",
+									"value": "To make Lemon Garlic Aioli , add 1 cup Extra light tasting olive oil, 1 egg, 1 garlic clove, 1 Tbsp lemon juice and zest of one lemon and 1 tsp salt to a mason jar. Place hand blender (also known as an immersion blender) at the bottom of the jar and turn it on. In a few seconds you will see the aioli start to form at the bottom. It will quickly begin to emulsify and become thick. Hold the blender at the bottom of the jar for the first few seconds until the oil has been incorporated, then move the blender up slowly until fully combined!",
+									"marks": [],
+									"data": {}
+								}
+							]
+						},
+						{
+							"nodeType": "paragraph",
+							"data": {},
+							"content": [
+								{
+									"nodeType": "text",
+									"value": "Heat oven to 400°F. In a large bowl toss 1 lb asparagus and 2 shallots sliced into wedges in 1 tbsp olive oil with 1/2 tsp salt and spread on baking sheet along with 1 lb chicken sausage (fully cooked or raw that has been cooked through enough to slice. we used asiago basil, but feel free to use your favorite). ",
+									"marks": [],
+									"data": {}
+								}
+							]
+						},
+						{
+							"nodeType": "paragraph",
+							"data": {},
+							"content": [
+								{
+									"nodeType": "text",
+									"value": "Place on center rack and roast for 10 minutes. Remove pan from oven and add 1 lb shrimp. Season entire sheet pan with 1/2 tsp salt, freshly ground pepper to taste, 2 tsp old bay seasoning and squeeze 1 lemon over the top. Gently toss all ingredients on the pan and roast for an additional 6-7 minutes or until sausage is warmed through and shrimp is pink. Serve warm with the aioli. Enjoy! \n\n",
+									"marks": [],
+									"data": {}
+								}
+							]
+						}
+					]
+				}
+			}
+		},
+		{
+			"metadata": {
+				"tags": []
+			},
+			"sys": {
+				"space": {
+					"sys": {
+						"type": "Link",
+						"linkType": "Space",
+						"id": "d6gach6xgkb5"
+					}
+				},
+				"id": "3iBD2hV6vahliyhGv69gup",
+				"type": "Entry",
+				"createdAt": "2022-08-30T15:15:24.529Z",
+				"updatedAt": "2022-09-06T16:25:08.248Z",
+				"environment": {
+					"sys": {
+						"id": "master",
+						"type": "Link",
+						"linkType": "Environment"
+					}
+				},
+				"revision": 4,
+				"contentType": {
+					"sys": {
+						"type": "Link",
+						"linkType": "ContentType",
+						"id": "header"
+					}
+				},
+				"locale": "en-US"
+			},
+			"fields": {
+				"header": "Beans in a pot",
+				"picture": [
+					{
+						"sys": {
+							"type": "Link",
+							"linkType": "Asset",
+							"id": "1QGPx83fsAvTr1WiJfD8c3"
+						}
+					}
+				],
+				"receiptText": {
+					"nodeType": "document",
+					"data": {},
+					"content": [
+						{
+							"nodeType": "paragraph",
+							"data": {},
+							"content": [
+								{
+									"nodeType": "text",
+									"value": "Place 1 pound beans in a medium- to large-sized cooking pot over medium-high heat. Add 3 quarts water. Dice 1 onion and 2 cloves garlic and add them to the pot. Cover the pot and allow to come to a boil. Once the boiling point has been reached, reduce heat to medium-low to keep a steady simmer that does not produce large bubbles. Cook beans until they are soft. Make sure there is always plenty of water in the pot, adding boiling water when and if necessary. ",
+									"marks": [],
+									"data": {}
+								}
+							]
+						},
+						{
+							"nodeType": "paragraph",
+							"data": {},
+							"content": [
+								{
+									"nodeType": "text",
+									"value": "Cooking time will vary depending on the freshness of the beans. Typically, though, beans will take an hour and a half to 2 hours to soften, though they could take a little less or quite a bit longer. Beans are cooked when one can be easily smashed between your thumb and forefinger. Once the beans are cooked, add the salt and stir. If salt is added before beans are thoroughly cooked, it prevents them from becoming completely soft.\nEnjoy your delicious, soupy beans in bowls\n\n",
+									"marks": [],
+									"data": {}
+								}
+							]
+						},
+						{
+							"nodeType": "paragraph",
+							"data": {},
+							"content": [
+								{
+									"nodeType": "text",
+									"value": "",
+									"marks": [],
+									"data": {}
+								}
+							]
+						}
+					]
+				}
+			}
+		}
+	],
+	"includes": {
+		"Asset": [
+			{
+				"metadata": {
+					"tags": []
+				},
+				"sys": {
+					"space": {
+						"sys": {
+							"type": "Link",
+							"linkType": "Space",
+							"id": "d6gach6xgkb5"
+						}
+					},
+					"id": "1QGPx83fsAvTr1WiJfD8c3",
+					"type": "Asset",
+					"createdAt": "2022-08-30T15:15:17.818Z",
+					"updatedAt": "2022-09-15T15:54:36.047Z",
+					"environment": {
+						"sys": {
+							"id": "master",
+							"type": "Link",
+							"linkType": "Environment"
+						}
+					},
+					"revision": 2,
+					"locale": "en-US"
+				},
+				"fields": {
+					"file": {
+						"url": "//images.ctfassets.net/d6gach6xgkb5/1QGPx83fsAvTr1WiJfD8c3/8060ee7a9df88139fb8349b7c9988246/1600x1200_serbischer-bohneneintopf.jpg",
+						"details": {
+							"size": 226338,
+							"image": {
+								"width": 1600,
+								"height": 1200
+							}
+						},
+						"fileName": "1600x1200_serbischer-bohneneintopf.jpg",
+						"contentType": "image/jpeg"
+					}
+				}
+			},
+			{
+				"metadata": {
+					"tags": []
+				},
+				"sys": {
+					"space": {
+						"sys": {
+							"type": "Link",
+							"linkType": "Space",
+							"id": "d6gach6xgkb5"
+						}
+					},
+					"id": "1sJ3CWrJhVv7cUz4sbU7dA",
+					"type": "Asset",
+					"createdAt": "2022-09-09T14:27:42.091Z",
+					"updatedAt": "2022-09-15T15:30:41.957Z",
+					"environment": {
+						"sys": {
+							"id": "master",
+							"type": "Link",
+							"linkType": "Environment"
+						}
+					},
+					"revision": 3,
+					"locale": "en-US"
+				},
+				"fields": {
+					"description": "",
+					"file": {
+						"url": "//images.ctfassets.net/d6gach6xgkb5/1sJ3CWrJhVv7cUz4sbU7dA/02cfe89eee15a18f73ace68dfc73680f/persgroep",
+						"details": {
+							"size": 110285,
+							"image": {
+								"width": 694,
+								"height": 914
+							}
+						},
+						"fileName": "persgroep",
+						"contentType": "image/jpeg"
+					}
+				}
+			},
+			{
+				"metadata": {
+					"tags": []
+				},
+				"sys": {
+					"space": {
+						"sys": {
+							"type": "Link",
+							"linkType": "Space",
+							"id": "d6gach6xgkb5"
+						}
+					},
+					"id": "3CsQ2QtK7LBq2YHB5uEPHO",
+					"type": "Asset",
+					"createdAt": "2022-09-09T13:57:16.474Z",
+					"updatedAt": "2022-09-15T15:31:22.376Z",
+					"environment": {
+						"sys": {
+							"id": "master",
+							"type": "Link",
+							"linkType": "Environment"
+						}
+					},
+					"revision": 3,
+					"locale": "en-US"
+				},
+				"fields": {
+					"description": "",
+					"file": {
+						"url": "//images.ctfassets.net/d6gach6xgkb5/3CsQ2QtK7LBq2YHB5uEPHO/6bd8d075b2b1006e572a7b48c5c27d7e/5fabca0dd3806c0cdcfb8595.jpg",
+						"details": {
+							"size": 97578,
+							"image": {
+								"width": 1200,
+								"height": 675
+							}
+						},
+						"fileName": "5fabca0dd3806c0cdcfb8595.jpg",
+						"contentType": "image/jpeg"
+					}
+				}
+			},
+			{
+				"metadata": {
+					"tags": []
+				},
+				"sys": {
+					"space": {
+						"sys": {
+							"type": "Link",
+							"linkType": "Space",
+							"id": "d6gach6xgkb5"
+						}
+					},
+					"id": "4JM80J42Z3PJwKk27k00g6",
+					"type": "Asset",
+					"createdAt": "2022-09-06T15:44:00.674Z",
+					"updatedAt": "2022-09-15T15:30:12.087Z",
+					"environment": {
+						"sys": {
+							"id": "master",
+							"type": "Link",
+							"linkType": "Environment"
+						}
+					},
+					"revision": 3,
+					"locale": "en-US"
+				},
+				"fields": {
+					"description": "",
+					"file": {
+						"url": "//images.ctfassets.net/d6gach6xgkb5/4JM80J42Z3PJwKk27k00g6/3b44976b782ac0615d5267e5cb625f07/lemonbasilpasta-7.jpg",
+						"details": {
+							"size": 627696,
+							"image": {
+								"width": 1812,
+								"height": 1200
+							}
+						},
+						"fileName": "lemonbasilpasta-7.jpg",
+						"contentType": "image/jpeg"
+					}
+				}
+			},
+			{
+				"metadata": {
+					"tags": []
+				},
+				"sys": {
+					"space": {
+						"sys": {
+							"type": "Link",
+							"linkType": "Space",
+							"id": "d6gach6xgkb5"
+						}
+					},
+					"id": "5oIt68X0ASCM3JP2AXFIRi",
+					"type": "Asset",
+					"createdAt": "2022-09-07T15:59:58.434Z",
+					"updatedAt": "2022-09-15T15:54:10.928Z",
+					"environment": {
+						"sys": {
+							"id": "master",
+							"type": "Link",
+							"linkType": "Environment"
+						}
+					},
+					"revision": 3,
+					"locale": "en-US"
+				},
+				"fields": {
+					"description": "",
+					"file": {
+						"url": "//images.ctfassets.net/d6gach6xgkb5/5oIt68X0ASCM3JP2AXFIRi/4aa4ff62d1f9e422879f6c6596bfd0be/shrimp-and-sausage-sheet-pan-dinner-8.jpg",
+						"details": {
+							"size": 584955,
+							"image": {
+								"width": 1800,
+								"height": 1200
+							}
+						},
+						"fileName": "shrimp-and-sausage-sheet-pan-dinner-8.jpg",
+						"contentType": "image/jpeg"
+					}
+				}
+			}
+		]
+	}
+}
