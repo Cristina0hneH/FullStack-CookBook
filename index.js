@@ -1,10 +1,9 @@
 const express = require('express')
 const app = express()
-const port = 3001
+const data = require("./data.json")
+const port = process.env.PORT || 3001; 
 
-app.get('/', (req, res) => {
-  res.send('Hello World!')
-})
+console.log(data);
 
 app.listen(port, () => {
   console.log(`Hello, welcome to port no. ${port}`)
