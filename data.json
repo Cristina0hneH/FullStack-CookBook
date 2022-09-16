@@ -396,7 +396,8 @@
 						"sys": {
 							"type": "Link",
 							"linkType": "Asset",
-							"id": "4JM80J42Z3PJwKk27k00g6"
+							"id": "4JM80J42Z3PJwKk27k00g6",
+							"url": "//images.ctfassets.net/d6gach6xgkb5/4JM80J42Z3PJwKk27k00g6/3b44976b782ac0615d5267e5cb625f07/lemonbasilpasta-7.jpg"
 						}
 					}
 				],
@@ -484,7 +485,8 @@
 						"sys": {
 							"type": "Link",
 							"linkType": "Asset",
-							"id": "5oIt68X0ASCM3JP2AXFIRi"
+							"id": "5oIt68X0ASCM3JP2AXFIRi",
+							"url": "//images.ctfassets.net/d6gach6xgkb5/5oIt68X0ASCM3JP2AXFIRi/4aa4ff62d1f9e422879f6c6596bfd0be/shrimp-and-sausage-sheet-pan-dinner-8.jpg"
 						}
 					}
 				],
@@ -572,7 +574,8 @@
 						"sys": {
 							"type": "Link",
 							"linkType": "Asset",
-							"id": "1QGPx83fsAvTr1WiJfD8c3"
+							"id": "1QGPx83fsAvTr1WiJfD8c3",
+							"url": "//images.ctfassets.net/d6gach6xgkb5/1QGPx83fsAvTr1WiJfD8c3/8060ee7a9df88139fb8349b7c9988246/1600x1200_serbischer-bohneneintopf.jpg"
 						}
 					}
 				],
@@ -651,7 +654,6 @@
 				},
 				"fields": {
 					"file": {
-						"url": "//images.ctfassets.net/d6gach6xgkb5/1QGPx83fsAvTr1WiJfD8c3/8060ee7a9df88139fb8349b7c9988246/1600x1200_serbischer-bohneneintopf.jpg",
 						"details": {
 							"size": 226338,
 							"image": {
@@ -693,7 +695,6 @@
 				"fields": {
 					"description": "",
 					"file": {
-						"url": "//images.ctfassets.net/d6gach6xgkb5/1sJ3CWrJhVv7cUz4sbU7dA/02cfe89eee15a18f73ace68dfc73680f/persgroep",
 						"details": {
 							"size": 110285,
 							"image": {
@@ -735,7 +736,6 @@
 				"fields": {
 					"description": "",
 					"file": {
-						"url": "//images.ctfassets.net/d6gach6xgkb5/3CsQ2QtK7LBq2YHB5uEPHO/6bd8d075b2b1006e572a7b48c5c27d7e/5fabca0dd3806c0cdcfb8595.jpg",
 						"details": {
 							"size": 97578,
 							"image": {
@@ -777,7 +777,6 @@
 				"fields": {
 					"description": "",
 					"file": {
-						"url": "//images.ctfassets.net/d6gach6xgkb5/4JM80J42Z3PJwKk27k00g6/3b44976b782ac0615d5267e5cb625f07/lemonbasilpasta-7.jpg",
 						"details": {
 							"size": 627696,
 							"image": {
@@ -819,7 +818,6 @@
 				"fields": {
 					"description": "",
 					"file": {
-						"url": "//images.ctfassets.net/d6gach6xgkb5/5oIt68X0ASCM3JP2AXFIRi/4aa4ff62d1f9e422879f6c6596bfd0be/shrimp-and-sausage-sheet-pan-dinner-8.jpg",
 						"details": {
 							"size": 584955,
 							"image": {
