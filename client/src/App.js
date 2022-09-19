@@ -3,7 +3,7 @@ import './App.css';
 import {useState, useEffect} from "react";
 import Home from './components/home/Home';
 import Recipe from './components/recipe/Recipe';
-import { useState, useEffect } from "react";
+
 
 function App() {
   const [recipe, setRecipe] = useState([]);
