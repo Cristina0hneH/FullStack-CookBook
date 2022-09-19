@@ -1,8 +1,9 @@
 import axios from "axios";
 import './App.css';
+import {useState, useEffect} from "react";
+import Home from './components/home/Home';
+import Recipe from './components/recipe/Recipe';
 import { useState, useEffect } from "react";
-
-
 
 function App() {
   const [recipe, setRecipe] = useState([]);
@@ -17,10 +18,13 @@ function App() {
   }, [])
   return (
     <div className="App">
+      <Home />
+      <Recipe />
       {
         console.log(recipe)
 
       }
+
 
     </div>
   );
