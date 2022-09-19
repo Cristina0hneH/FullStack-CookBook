@@ -1,6 +1,6 @@
 import axios from "axios";
 import './App.css';
-import {useState, useEffect} from "react";
+import { useState, useEffect } from "react";
 import Home from './components/home/Home';
 import Recipe from './components/recipe/Recipe';
 
@@ -11,14 +11,14 @@ function App() {
 
     axios.get('http://localhost:3001/recipes')
       .then((res) => {
-        setRecipes(res.data) 
+        setRecipes(res.data)
       })
       .catch((err) => { console.log(err) })
   }, [])
-  
+
   return (
     <div className="App">
-      <Home recipes={recipes}/>
+      <Home recipes={recipes} />
       <Recipe />
 
     </div>
