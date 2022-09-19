@@ -7,3 +7,12 @@ const Recipe = ()=>{
 };
 
 export default Recipe;
+
+
+{/*{recipe.fields.receiptText.content.map((text, index)=>{
+                    return (
+                        <>
+                       <p key={index}>{text.content[0].value}</p> 
+                        </>
+                    )
+                })} */}
