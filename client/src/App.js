@@ -22,13 +22,13 @@ function App() {
   }, [])
 
   return (
-    <div >
+    < >
       <Navbar/>
       <Routes>
       <Route path ='/' element={<Home recipes={recipes}/>} />
       <Route path ='/recipe/:id' element={<Recipe />} />
       </Routes>
-    </div>
+    </>
   );
 }
 

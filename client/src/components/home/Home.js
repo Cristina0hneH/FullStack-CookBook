@@ -17,6 +17,7 @@ const Home = ({ recipes }) => {
                         }
                     })}
                     <button onClick={() => { navigate(`/recipes/${recipe.sys.id}`)}}>Start Cooking </button>
+
                 </section>
             )
         })}
@@ -29,4 +30,3 @@ export default Home;
 
 
 
-{/*   */ }
