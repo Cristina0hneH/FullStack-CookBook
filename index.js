@@ -15,6 +15,7 @@ const  id = req.params.id;
   //find() returns only one object, it stops after finsinf the irst one. filter() returns an array with multiple results
   //this will be replaced with a db call later
   const recipe = data.items.find((recipe) =>{
+    console.log(recipe.sys.id, id)
     return recipe.sys.id === id;
   })
   res.json(recipe)
