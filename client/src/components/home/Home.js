@@ -1,6 +1,8 @@
 import './home.css';
+import { useNavigate } from 'react-router-dom';
 
 const Home = ({ recipes }) => {
+    const navigate= useNavigate();
 
     return (
         <>{recipes.map((recipe, id) => {
@@ -14,7 +16,7 @@ const Home = ({ recipes }) => {
                             return (<p key={recipe.sys.id + i}> {content.content[0].value} </p>);
                         }
                     })}
-                    <button>Start Cooking</button>
+                    <button onClick={() => { navigate(`/recipes/${recipe.sys.id}`)}}>Start Cooking </button>
                 </section>
             )
         })}
