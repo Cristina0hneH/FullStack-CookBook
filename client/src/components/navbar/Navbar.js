@@ -6,18 +6,19 @@ export default function Navbar() {
     const navigate = useNavigate();
 
 
-    return <nav className="nav">
-        <div>
-        <div>
-        <p></p>
-        </div>
-        <div>
-        {/*<img src='https://img.freepik.com/premium-vector/cookbook-logo-icon-symbol-with-recipe-book-with-cook-simple-negative-space-style-logo_279597-883.jpg'/>*/}
-        </div>
-        <div>
-        <Link to='/'>Home</Link>
-        </div>
+    return <nav >
+
+        <div className="nav">
+            <div>
+            <p></p>
+            </div>
+            <div>
+            <img className="nav-img" src='https://cdn.freelogodesign.org/files/abc8071a02e54a0a9dba3bf2efdfaeca/thumb/logo_200x200.png?v=0'/>
+            </div>
+            <div>
+            <Link to='/' className="home">Home</Link>
+            </div>
         </div>
         
-         </nav>
+     </nav>
 }
