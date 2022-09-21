@@ -5,7 +5,7 @@ const Home = ({ recipes }) => {
     const navigate= useNavigate();
 
     return (
-        <>{recipes.map((recipe, id) => {
+        <div className="wrapper">{recipes.map((recipe, id) => {
             return (
                 <section key={id} className="recipe-cards">
                     {console.log(recipe)}
@@ -16,7 +16,7 @@ const Home = ({ recipes }) => {
                 </section>
             )
         })}
-        </>
+        </div>
     )
 };
 
