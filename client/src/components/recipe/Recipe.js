@@ -17,14 +17,14 @@ const Recipe = () => {
         })
         .catch((err) => { console.log(err) })
     }, [])
-    return (<div>{recipe &&
+    return (<div className='recipe'>{recipe &&
          <section className="recipe-cards">
                     {console.log(recipe)}
-                    {<img src={recipe.fields?.picture[0].sys.url} />}
-                    <h3>{recipe.fields?.header}</h3>
+                    {<img className='recipe-img' src={recipe.fields?.picture[0].sys.url} />}
+                    <h3 className='recipie-header'>{recipe.fields?.header}</h3>
                     {recipe.fields?.receiptText.content.map((content, i) => {
                         if (content.nodeType === "paragraph") {
-                            return (<p key={recipe.sys.id + i}> {content.content[0].value} </p>);
+                            return (<p className='recipie-info' key={recipe.sys.id + i} > {content.content[0].value} </p>);
                         }
                     })}
                 </section>
@@ -34,12 +34,3 @@ const Recipe = () => {
 };
 
 export default Recipe;
-
-
-{/*{recipe.fields.receiptText.content.map((text, index)=>{
-                    return (
-                        <>
-                       <p key={index}>{text.content[0].value}</p> 
-                        </>
-                    )
-                })} */}
