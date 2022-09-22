@@ -6,16 +6,15 @@ import DropdownMenu from "./Dropdown.js";
 export default function Navbar({ recipes }) {
     const navigate = useNavigate();
 
-    return <nav className="nav">
-        <div>
+    return <nav >
+        <div className="nav">
             <div>
                 <DropdownMenu recipes={recipes} />
             </div>
             <div>
-
             </div>
             <div>
-                <Link to='/'>Home</Link>
+                <Link className="home" to='/'>Home</Link>
             </div>
         </div>
 
