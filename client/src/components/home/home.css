@@ -8,9 +8,25 @@ img{
     width: 60%;
     border-radius:10%;
 }
+
+.recipe-cards{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    flex: 1;
+    max-width: 300px;
+    padding: 32px;
+}
+.image-food {
+    height: 300px;
+    width: 300px;
+    border-radius:10%;
+    object-fit: cover;
+}
 .wrapper{
-    display:flex;
+    display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: space-evenly;
     padding: 20px;
+    align-items: baseline;
 }
