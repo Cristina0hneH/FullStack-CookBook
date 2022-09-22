@@ -24,7 +24,7 @@ function App() {
 
   return (
     < >
-      <Navbar recipes={recipes}/>
+      <Navbar recipes={recipes} setRecipes={setRecipes}/>
       <Routes>
         <Route path='/' element={<Home recipes={recipes} />} />
         <Route path='/recipes/:id' element={<Recipe />} />

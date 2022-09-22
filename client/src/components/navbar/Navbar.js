@@ -3,13 +3,13 @@ import { useNavigate } from "react-router-dom";
 import "./navbar.css"
 import DropdownMenu from "./Dropdown.js";
 
-export default function Navbar({ recipes }) {
+export default function Navbar({ recipes, setRecipes }) {
     const navigate = useNavigate();
 
     return <nav >
         <div className="nav">
             <div>
-                <DropdownMenu recipes={recipes} />
+                <DropdownMenu recipes={recipes} setRecipes={setRecipes} />
             </div>
             <div>
             </div>
