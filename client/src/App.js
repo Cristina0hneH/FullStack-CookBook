@@ -4,8 +4,9 @@ import { useState, useEffect } from "react";
 import Home from './components/home/Home';
 import Recipe from './components/recipe/Recipe';
 import Navbar from "./components/navbar/Navbar";
-import { Route,Routes } from "react-router-dom";
-import {useNavigate} from "react-router-dom"
+import { Route, Routes } from "react-router-dom";
+import { useNavigate } from "react-router-dom"
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 function App() {
@@ -23,10 +24,10 @@ function App() {
 
   return (
     < >
-      <Navbar/>
+      <Navbar recipes={recipes}/>
       <Routes>
-      <Route path ='/' element={<Home recipes={recipes}/>} />
-      <Route path ='/recipes/:id' element={<Recipe />} />
+        <Route path='/' element={<Home recipes={recipes} />} />
+        <Route path='/recipes/:id' element={<Recipe />} />
       </Routes>
     </>
   );
