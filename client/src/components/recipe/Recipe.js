@@ -18,7 +18,7 @@ const Recipe = () => {
         .catch((err) => { console.log(err) })
     }, [])
     return (<div className='recipe'>{recipe &&
-         <section className="recipe-cards">
+            <section>
                     {console.log(recipe)}
                     {<img className='recipe-img' src={recipe.fields?.picture[0].sys.url} />}
                     <h3 className='recipie-header'>{recipe.fields?.header}</h3>
