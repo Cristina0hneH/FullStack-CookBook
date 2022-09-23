@@ -24,7 +24,7 @@ const Recipe = () => {
                     <h3 className='recipie-header'>{recipe.fields?.header}</h3>
                     {recipe.fields?.receiptText.content.map((content, i) => {
                         if (content.nodeType === "paragraph") {
-                            return (<p className='recipie-info' key={recipe.sys.id + i} > {content.content[0].value} </p>);
+                            return (<p className='recipe-info' key={recipe.sys.id + i} > {content.content[0].value} </p>);
                         }
                     })}
                 </section>

@@ -9,12 +9,13 @@
 }
 
 .recipie-header{
-  justify-content: center;
+  text-align: center;
   font-size: 2rem;
 }
-.recipie-info{
+.recipe-info{
     font-size: 1.2rem;
     line-height: 1.8rem;
-    width: 70rem;
+    width: 90%;
     text-align: center;
+    margin-left: 4.5%;
 }

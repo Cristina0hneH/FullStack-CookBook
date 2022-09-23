@@ -12,6 +12,7 @@ export default function Navbar({ recipes, setRecipesFilter }) {
                 <DropdownMenu recipes={recipes} setRecipesFilter={setRecipesFilter} />
             </div>
             <div>
+            <img className="nav-img" src='https://cdn.freelogodesign.org/files/abc8071a02e54a0a9dba3bf2efdfaeca/thumb/logo_200x200.png?v=0'/>
             </div>
             <div>
                 <Link className="home" to='/'>Home</Link>
