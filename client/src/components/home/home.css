@@ -37,3 +37,7 @@ body{
     color: #141445;
     
 }
+.title{
+    display: flex;
+    min-height: 4rem;
+}
