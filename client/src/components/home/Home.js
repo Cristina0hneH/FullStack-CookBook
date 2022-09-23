@@ -1,11 +1,17 @@
 import './home.css';
 import { useNavigate } from 'react-router-dom';
 
-const Home = ({ recipes }) => {
+const Home = ({ recipes, recipesFilter }) => {
     const navigate= useNavigate();
-
+    const filter = () => {
+        if(recipesFilter) {
+            return recipes.filter(recipe => recipe.fields.taste === recipesFilter);
+        } 
+        return recipes;
+    }
     return (
-        <div className="wrapper">{recipes.map((recipe, id) => {
+        
+        <div className="wrapper">{filter().map((recipe, id) => {
             return (
                 <section key={id} className="recipe-cards">
                     {console.log(recipe)}
