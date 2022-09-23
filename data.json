@@ -40,6 +40,7 @@
 				"locale": "en-US"
 			},
 			"fields": {
+				"taste": "sweet",
 				"header": "Red Velvet Cake",
 				"picture": [
 					{
@@ -253,6 +254,7 @@
 				"locale": "en-US"
 			},
 			"fields": {
+				"taste": "sweet",
 				"header": "Tiramisu",
 				"picture": [
 					{
@@ -390,6 +392,7 @@
 				"locale": "en-US"
 			},
 			"fields": {
+				"taste": "salty",
 				"header": "Tagliatelle with Lemon Basil Sauce",
 				"picture": [
 					{
@@ -479,6 +482,7 @@
 				"locale": "en-US"
 			},
 			"fields": {
+				"taste": "salty",
 				"header": "Old Bay Shrimp and Sausage Sheet Pan with Lemon Garlic Aioli ",
 				"picture": [
 					{
@@ -568,6 +572,7 @@
 				"locale": "en-US"
 			},
 			"fields": {
+				"taste": "salty",
 				"header": "Beans in a pot",
 				"picture": [
 					{
