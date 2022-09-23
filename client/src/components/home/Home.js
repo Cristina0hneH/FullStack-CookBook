@@ -16,7 +16,7 @@ const Home = ({ recipes, recipesFilter }) => {
                 <section key={id} className="recipe-cards">
                     {console.log(recipe)}
                     {<img className="image-food" src={recipe.fields?.picture[0].sys.url} />}
-                    <h3>{recipe.fields?.header}</h3>
+                    <h3 className="title">{recipe.fields?.header}</h3>
                     <button className="start-cooking" onClick={() => { navigate(`/recipes/${recipe.sys.id}`)}}>Start Cooking </button>
 
                 </section>

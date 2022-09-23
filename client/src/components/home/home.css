@@ -11,6 +11,9 @@ body{
     max-width: 300px;
     padding: 32px;
     padding-top: 128px;
+    border-radius: 5%;
+    margin-block: 10%;
+
 }
 .image-food {
     height: 300px;
@@ -36,4 +39,11 @@ body{
     background-color: aliceblue;
     color: #141445;
     
+}
+.title{
+    display: flex;
+    min-height: 10rem;
+    padding-top: 0.2rem;
+    flex-direction: column;
+    justify-content: center
 }
